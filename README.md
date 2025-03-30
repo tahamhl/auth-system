@@ -1,3 +1,6 @@
+[🔍 Detaylı Anlatım ve Örnekler](https://akademi.tahamehel.tr/details.php?id=21)
+
+
 # PHP PDO ile Güvenli Login ve Register Sistemi
 
 Bu proje, PHP PDO kullanarak güvenli bir kullanıcı kimlik doğrulama sistemi nasıl oluşturulacağını göstermektedir. Kullanıcı kayıt, giriş, oturum yönetimi ve parola sıfırlama işlemlerini güvenli bir şekilde gerçekleştiren örnek bir uygulamadır.
